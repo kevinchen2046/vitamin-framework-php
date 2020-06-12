@@ -1,5 +1,5 @@
 
-# phpbeauty - 像写nodejs一样优雅
+# 维他命框架之PHP
 
 ## 部署
     部署php请修改gulpfile.js
