@@ -1,5 +1,7 @@
 
-# 维他命框架之PHP
+# Vitamin框架之PHP
+
+Php版本的Vitamin其实是一个语法糖,并没有抽象出MVC的架构
 
 ## 部署
     部署php请修改gulpfile.js
